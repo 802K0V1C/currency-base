@@ -19,7 +19,7 @@ if (amount < 0)
 return(
 
 <div className={styles.result} data-testid="final-amount">
-  <p1>Wrong value</p1>
+  <h5>WRONG VALUE</h5>
 </div>
 )
 
